@@ -30,8 +30,8 @@
       <fSuspensionForce value="8.500000" />
       <fSuspensionCompDamp value="8.000000" />
       <fSuspensionReboundDamp value="8.600000" />
-      <fSuspensionUpperLimit value="0.080000" />
-      <fSuspensionLowerLimit value="-0.050000" />
+      <fSuspensionUpperLimit value="0.100000" />
+      <fSuspensionLowerLimit value="-0.100000" />
       <fSuspensionRaise value="-0.007000" />
       <fSuspensionBiasFront value="0.500000" />
       <fAntiRollBarForce value="0.000000" />
@@ -55,19 +55,19 @@
       <SubHandlingData>
         <Item type="CBikeHandlingData">
           <fLeanFwdCOMMult value="0.000000" />
-          <fLeanFwdForceMult value="28.000000" />
+          <fLeanFwdForceMult value="28.500000" />
           <fLeanBakCOMMult value="0.000000" />
-          <fLeanBakForceMult value="17.000000" />
+          <fLeanBakForceMult value="40.000000" />
           <fMaxBankAngle value="20.000000" />
           <fFullAnimAngle value="28.000000" />
           <fDesLeanReturnFrac value="0.140000" />
           <fStickLeanMult value="1.000000" />
           <fBrakingStabilityMult value="-8.000000" />
           <fInAirSteerMult value="-9.000000" />
-          <fWheelieBalancePoint value="10.000000" />
+          <fWheelieBalancePoint value="8.000000" />
           <fStoppieBalancePoint value="-10.000000" />
           <fWheelieSteerMult value="-0.500000" />
-          <fRearBalanceMult value="45.000000" />
+          <fRearBalanceMult value="200.000000" />
           <fFrontBalanceMult value="145.000000" />
           <fBikeGroundSideFrictionMult value="1.400000" />
           <fBikeWheelGroundSideFrictionMult value="1.100000" />

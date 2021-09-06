@@ -28,8 +28,8 @@
       <fTractionBiasFront value="0.490000" />
       <fTractionLossMult value="1.000000" />
       <fSuspensionForce value="4.100000" />
-      <fSuspensionCompDamp value="3.500000" />
-      <fSuspensionReboundDamp value="4.500000" />
+      <fSuspensionCompDamp value="1.900000" />
+      <fSuspensionReboundDamp value="3.800000" />
       <fSuspensionUpperLimit value="0.100000" />
       <fSuspensionLowerLimit value="-0.100000" />
       <fSuspensionRaise value="0.000000" />
@@ -67,7 +67,7 @@
           <fWheelieBalancePoint value="5.000000" />
           <fStoppieBalancePoint value="-10.000000" />
           <fWheelieSteerMult value="-0.500000" />
-          <fRearBalanceMult value="15.000000" />
+          <fRearBalanceMult value="25.000000" />
           <fFrontBalanceMult value="85.000000" />
           <fBikeGroundSideFrictionMult value="1.400000" />
           <fBikeWheelGroundSideFrictionMult value="1.100000" />

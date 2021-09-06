@@ -86,6 +86,7 @@
           <fOnGroundYawBoostSpeedPeak value="1.000000" />
           <fOnGroundYawBoostSpeedCap value="1.000000" />
           <fEngineOffGlideMulti value="1.000000" />
+          <fSubmergeLevelToPullHeliUnderwater value="0.01" />
           <handlingType>HANDLING_TYPE_FLYING</handlingType>
         </Item>
         <Item type="CVehicleWeaponHandlingData">

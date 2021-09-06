@@ -45,7 +45,7 @@
       <fPetrolTankVolume value="65.000000" />
       <fOilVolume value="5.000000" />
       <fSeatOffsetDistX value="0.000000" />
-      <fSeatOffsetDistY value="0.000000" />
+      <fSeatOffsetDistY value="0.100000" />
       <fSeatOffsetDistZ value="0.000000" />
       <nMonetaryValue value="30000" />
       <strModelFlags>440010</strModelFlags>
