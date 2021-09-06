@@ -80,7 +80,6 @@
           <fImpellerForceMult value="0.100000" />
           <fDinghySphereBuoyConst value="0.000000" />
           <fProwRaiseMult value="0.200000" />
-          <fDeepWaterSampleBuoyancyMult value="5.0" />
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
