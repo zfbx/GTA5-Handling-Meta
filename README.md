@@ -1,7 +1,13 @@
 # gta5 handling.meta
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
+[![Donate on PayPal](https://img.shields.io/badge/Donate-PayPal-%2300457C?style=for-the-badge&logo=paypal)](https://paypal.me/zfbx)
+[![Sub on Patreon](https://img.shields.io/badge/Support-Patreon-%23FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/zfbx)
+[![Buy Me a Pizza](https://img.shields.io/badge/Pizza-BuyMeACoffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/zfbx)
 
-## Patches / DLCs in order
+Finding the correct version of a vehicle meta amoung all the DLCs and patches is such a pain.. so let's put them all in one place in their most up-to-date form
+
+## Patches / DLCs in order (src)
 ```
 108 - common
 v1.57|2372-dev - update
@@ -22,7 +28,7 @@ v1.06 MPBeach
 2015-07-20 - mpHalloween
 2015-09-22 - mpApartment
 2015-09-23 - mpApartment-patch
-2015-09-22 - mpxmas_604490
+2015-09-22 - mpxmas_604490 
 2015-11-27 - mpJanuary2016
 2015-11-28 - mpJanuary2016-patch
 2015-11-27 - mpValentines2
