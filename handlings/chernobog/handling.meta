@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CHandlingDataMgr>
+  <HandlingData>
+    <Item type="CHandlingData">
+      <handlingName>CHERNOBOG</handlingName>
+      <fMass value="40000.000000" />
+      <fInitialDragCoeff value="14.000000" />
+      <fPercentSubmerged value="80.000000" />
+      <vecCentreOfMassOffset x="0.000000" y="-0.200000" z="-0.200000" />
+      <vecInertiaMultiplier x="1.400000" y="2.100000" z="1.500000" />
+      <fDriveBiasFront value="0.40000" />
+      <nInitialDriveGears value="5" />
+      <fInitialDriveForce value="0.120000" />
+      <fDriveInertia value="0.500000" />
+      <fClutchChangeRateScaleUpShift value="1.500000" />
+      <fClutchChangeRateScaleDownShift value="1.500000" />
+      <fInitialDriveMaxFlatVel value="95.000000" />
+      <fBrakeForce value="0.100000" />
+      <fBrakeBiasFront value="0.500000" />
+      <fHandBrakeForce value="0.120000" />
+      <fSteeringLock value="42.000000" />
+      <fTractionCurveMax value="2.000000" />
+      <fTractionCurveMin value="1.800000" />
+      <fTractionCurveLateral value="20.000000" />
+      <fTractionSpringDeltaMax value="0.150000" />
+      <fLowSpeedTractionLossMult value="0.000000" />
+      <fCamberStiffnesss value="0.000000" />
+      <fTractionBiasFront value="0.450000" />
+      <fTractionLossMult value="0.300000" />
+      <fSuspensionForce value="2.500000" />
+      <fSuspensionCompDamp value="1.400000" />
+      <fSuspensionReboundDamp value="1.800000" />
+      <fSuspensionUpperLimit value="0.300000" />
+      <fSuspensionLowerLimit value="-0.320000" />
+      <fSuspensionRaise value="0.000000" />
+      <fSuspensionBiasFront value="0.470000" />
+      <fAntiRollBarForce value="0.750000" />
+      <fAntiRollBarBiasFront value="0.600000" />
+      <fRollCentreHeightFront value="0.500000" />
+      <fRollCentreHeightRear value="0.500000" />
+      <fCollisionDamageMult value="0.300000" />
+      <fWeaponDamageMult value="0.500000" />
+      <fDeformationDamageMult value="0.400000" />
+      <fEngineDamageMult value="1.00000" />
+      <fPetrolTankVolume value="65.000000" />
+      <fOilVolume value="5.000000" />
+      <fSeatOffsetDistX value="0.000000" />
+      <fSeatOffsetDistY value="0.000000" />
+      <fSeatOffsetDistZ value="0.000000" />
+      <nMonetaryValue value="40000" />
+      <strModelFlags>224018</strModelFlags>
+      <strHandlingFlags>2000A1</strHandlingFlags>
+      <strDamageFlags>20</strDamageFlags>
+      <AIHandling>TRUCK</AIHandling>
+      <SubHandlingData>
+        <Item type="CVehicleWeaponHandlingData">
+          <uWeaponHash>
+            <Item />
+            <Item />
+            <Item />
+            <Item />
+            <Item>VEHICLE_WEAPON_CHERNO_MISSILE</Item>
+            <Item />
+          </uWeaponHash>
+          <WeaponSeats content="int_array">
+            0
+            0
+            0
+			0
+			1
+			0
+          </WeaponSeats>
+          <fTurretSpeed content="float_array">
+            5.000000
+            0.000000
+          </fTurretSpeed>
+          <fTurretPitchMin content="float_array">
+            0.000000
+            0.000000
+          </fTurretPitchMin>
+          <fTurretPitchMax content="float_array">
+            1.570000
+            0.000000
+          </fTurretPitchMax>
+          <fTurretCamPitchMin content="float_array">
+            -0.707000
+            0.000000
+          </fTurretCamPitchMin>
+          <fTurretCamPitchMax content="float_array">
+            0.000000
+            0.000000
+          </fTurretCamPitchMax>
+          <fBulletVelocityForGravity content="float_array">
+            0.000000
+            0.000000
+          </fBulletVelocityForGravity>
+          <fTurretPitchForwardMin content="float_array">
+            0.200000
+            0.000000
+          </fTurretPitchForwardMin>
+          <TurretPitchLimitData>
+            <Item>
+              <fForwardAngleMin value="20.00000" />
+              <fForwardAngleMax value="45.00000" />
+              <fBackwardAngleMin value="125.00000" />
+              <fBackwardAngleMid value="150.00000" />
+              <fBackwardAngleMax value="169.00000" />
+              <fBackwardForcedPitch value="0.0" />
+            </Item>
+          </TurretPitchLimitData>
+          <fMiscGadgetVar value="1.500000" />
+        </Item>
+        <Item type="NULL" />
+        <Item type="NULL" />
+      </SubHandlingData>
+    </Item>
+  </HandlingData>
+</CHandlingDataMgr>
