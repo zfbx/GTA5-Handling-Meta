@@ -5,7 +5,7 @@
 [![Sub on Patreon](https://img.shields.io/badge/Support-Patreon-%23FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/zfbx)
 [![Buy Me a Pizza](https://img.shields.io/badge/Pizza-BuyMeACoffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/zfbx)
 
-Finding the correct version of a vehicle meta amoung all the DLCs and patches is such a pain.. so let's put them all in one place in their most up-to-date form
+Finding the correct version of a vehicle meta amoung all the DLCs and patches is such a pain.. so let's put them all in one place in their most up-to-date **stock gta values **
 
 ## Patches / DLCs in order (src)
 ```
